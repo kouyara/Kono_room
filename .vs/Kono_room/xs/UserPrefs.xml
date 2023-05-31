@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{DEEC153C-57EA-CE74-B9EC-C46F2D119258}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerCon.cs">
+    <Files>
+      <File FileName="Assets/PlayerCon.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Kono_room" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PlayerCon.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f635eeff-b609-4ecd-b4c9-fb849cdb5c6a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
